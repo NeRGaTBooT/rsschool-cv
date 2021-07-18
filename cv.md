@@ -39,7 +39,7 @@ Responsibility, rapid development, quick adaptation to changes, discipline - all
 -----------
 
 ## 6. EXPERIENCE
-I began to learn about programming at the end of 2017.
+I began to learn about programming at the end of 2019.
 
 ------------
 ------------
