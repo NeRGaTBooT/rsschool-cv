@@ -1,1 +1,1 @@
-https://NeRGaTBooT.github.io/rsschool-cv/cv
+https://NeRGaTBooT.github.io/rsschool-cv/
